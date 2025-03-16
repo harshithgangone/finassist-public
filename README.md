@@ -35,12 +35,14 @@
 
 ## 🔥 Why Choose Us?
 
-💡 **Intelligent AI Assistance** - Get smart, AI-powered loan recommendations based on your profile  
-🌎 **Truly Multilingual** - No language barriers! Talk in any language, and we understand you  
-🗣️ **Voice & Text Flexibility** - Choose between typing or speaking for easy interactions  
-📲 **WhatsApp-Friendly** - No need for extra apps—get help via WhatsApp anytime!  
-📑 **Document Insights** - Upload your loan documents, and let AI extract key information  
-🔐 **Secure & Scalable** - Built with Firebase, MongoDB, and secure API integrations  
+💡 Intelligent AI Assistance - Get smart, AI-powered loan recommendations based on your profile
+🌎 Truly Multilingual - No language barriers! Talk in any language, and we understand you
+🗣 Voice & Text Flexibility - Choose between typing or speaking for easy interactions
+📲 WhatsApp-Friendly - No need for extra apps—get help via WhatsApp anytime!
+📑 Document Insights - Upload your loan documents, and let AI extract key information
+🔐 Secure & Scalable - Built with Firebase, MongoDB, and secure API integrations
+📲 Call & Text - You can have a call and also chat with our AI assistant
+🚀Trianing - Also trained on realtime datasets
 
 ---
 
