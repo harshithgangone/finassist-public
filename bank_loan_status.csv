@@ -1,0 +1,1001 @@
+Bank Name,Loan Type,Loan Amount (INR),Interest Rate (%),Loan Tenure (years),Processing Fee (INR),EMI (INR),Loan Status
+HDFC Bank,Education Loan,2507286,9.11,5,10955,19034.48,Accepted
+Yes Bank,Home Loan,1211799,9.32,5,11369,9411.64,Accepted
+Yes Bank,Business Loan,1581505,7.95,10,7494,10477.47,Accepted
+Kotak Mahindra Bank,Home Loan,565672,11.02,5,16725,5194.75,Accepted
+Bank of Baroda,Home Loan,1516642,9.68,20,19434,12234.25,Accepted
+IndusInd Bank,Education Loan,2837736,7.98,10,9439,18870.94,Rejected
+State Bank of India,Car Loan,1293467,7.19,5,12545,7750.02,Accepted
+HDFC Bank,Business Loan,2241832,7.39,5,12901,13805.95,Rejected
+HDFC Bank,Car Loan,1427402,10.13,5,14914,12049.65,Rejected
+Bank of India,Education Loan,821177,8.22,20,14775,5625.06,Accepted
+Yes Bank,Home Loan,2777012,11.83,10,10766,27376.71,Accepted
+HDFC Bank,Personal Loan,827186,8.91,20,19489,6141.86,Accepted
+Bank of India,Personal Loan,1759334,10.38,20,11641,15218.24,Rejected
+Kotak Mahindra Bank,Business Loan,2194567,10.53,10,10597,19257.33,Rejected
+HDFC Bank,Home Loan,1447623,8.07,10,12205,9735.26,Rejected
+IndusInd Bank,Personal Loan,1112604,11.12,10,6977,10310.13,Accepted
+IndusInd Bank,Education Loan,779714,10.68,20,3342,6939.45,Accepted
+Kotak Mahindra Bank,Car Loan,643768,7.84,5,16784,4205.95,Rejected
+Bank of Baroda,Home Loan,2002204,10.13,20,14315,16901.94,Accepted
+Punjab National Bank,Car Loan,2668631,10.05,20,16929,22349.78,Accepted
+Kotak Mahindra Bank,Car Loan,1059142,8.45,15,18324,7458.12,Rejected
+HDFC Bank,Business Loan,2238146,11.08,15,13326,20665.55,Rejected
+State Bank of India,Business Loan,1709899,11.15,20,4362,15887.81,Rejected
+HDFC Bank,Personal Loan,1053760,10.77,15,12836,9457.5,Rejected
+State Bank of India,Home Loan,1917207,10.09,15,3595,16120.52,Accepted
+State Bank of India,Education Loan,1336542,9.25,5,7820,10302.51,Accepted
+Bank of India,Business Loan,1966026,8.8,15,15784,14417.52,Rejected
+Axis Bank,Business Loan,598660,8.23,15,4181,4105.81,Rejected
+Kotak Mahindra Bank,Education Loan,954453,10.28,15,13646,8176.48,Rejected
+Bank of India,Personal Loan,729389,9.36,15,7081,5689.23,Accepted
+IndusInd Bank,Business Loan,1169602,7.33,20,4906,7144.32,Rejected
+Bank of India,Education Loan,1247682,11.58,5,18726,12040.13,Rejected
+Kotak Mahindra Bank,Business Loan,1893363,7.55,5,8907,11912.41,Rejected
+IndusInd Bank,Car Loan,2709486,8.77,10,6857,19801.83,Rejected
+Bank of India,Home Loan,2305023,10.48,15,13862,20130.53,Accepted
+Punjab National Bank,Education Loan,2946753,7.68,15,9157,18859.22,Accepted
+ICICI Bank,Education Loan,1131583,7.08,10,10107,6676.34,Rejected
+Yes Bank,Business Loan,2553663,7.37,10,12870,15683.75,Accepted
+Axis Bank,Personal Loan,1009588,8.3,5,16851,6982.98,Accepted
+Axis Bank,Personal Loan,2746122,8.74,5,14738,20000.92,Rejected
+State Bank of India,Education Loan,2388311,7.22,10,14634,14369.67,Accepted
+Bank of Baroda,Home Loan,663785,7.58,15,13619,4192.91,Rejected
+Yes Bank,Car Loan,2114907,7.61,10,15965,13412.04,Accepted
+Punjab National Bank,Car Loan,746308,10.15,15,15045,6312.52,Accepted
+Bank of India,Personal Loan,940576,10.8,5,7578,8465.18,Accepted
+IndusInd Bank,Education Loan,2250887,9.64,5,13764,18082.13,Accepted
+IndusInd Bank,Business Loan,528642,11.64,15,9442,5127.83,Accepted
+State Bank of India,Car Loan,1610407,8.79,20,18240,11796.23,Rejected
+Bank of India,Business Loan,2207389,7.4,10,7366,13612.23,Rejected
+HDFC Bank,Car Loan,2968319,9.62,15,12273,23796.02,Accepted
+State Bank of India,Education Loan,1327240,7.19,20,7477,7952.38,Accepted
+State Bank of India,Personal Loan,2922459,9.7,15,6940,23623.21,Rejected
+State Bank of India,Business Loan,1030610,8.13,15,14479,6982.38,Accepted
+Axis Bank,Education Loan,862672,10.07,15,7568,7239.26,Accepted
+HDFC Bank,Personal Loan,2451691,7.36,20,17834,15037.04,Accepted
+Bank of India,Personal Loan,987686,9.52,20,5717,7835.64,Rejected
+State Bank of India,Education Loan,2922500,9.84,5,13428,23964.5,Rejected
+IndusInd Bank,Home Loan,1869417,8.08,20,17958,12587.41,Rejected
+Kotak Mahindra Bank,Education Loan,718116,8.0,20,15279,4787.44,Accepted
+Punjab National Bank,Car Loan,2826515,7.01,10,6115,16511.56,Rejected
+State Bank of India,Education Loan,643754,8.3,15,9002,4452.63,Accepted
+Kotak Mahindra Bank,Education Loan,1206639,11.49,20,10701,11553.57,Rejected
+Kotak Mahindra Bank,Education Loan,1747705,7.29,5,19162,10617.31,Accepted
+Punjab National Bank,Home Loan,1437322,9.49,20,5380,11366.82,Rejected
+HDFC Bank,Education Loan,618980,11.83,5,6071,6102.11,Accepted
+ICICI Bank,Education Loan,2465352,7.32,10,11047,15038.65,Accepted
+Punjab National Bank,Personal Loan,1467391,9.17,5,16505,11213.31,Accepted
+ICICI Bank,Education Loan,2625393,11.99,10,12622,26232.05,Accepted
+IndusInd Bank,Education Loan,2981146,10.72,5,14964,26631.57,Rejected
+HDFC Bank,Personal Loan,2435947,7.97,10,11935,16178.75,Accepted
+ICICI Bank,Business Loan,510217,11.37,5,17180,4834.31,Rejected
+Bank of India,Education Loan,2087169,11.72,15,19272,20384.68,Accepted
+Bank of India,Education Loan,2264784,9.15,15,3110,17268.98,Accepted
+State Bank of India,Business Loan,582644,9.74,5,17434,4729.13,Rejected
+Bank of India,Business Loan,2517523,7.47,10,15468,15671.58,Rejected
+Kotak Mahindra Bank,Home Loan,2546468,10.88,5,16273,23087.98,Accepted
+Punjab National Bank,Education Loan,1334852,7.86,5,7205,8743.28,Accepted
+HDFC Bank,Business Loan,1976777,10.33,5,7031,17016.76,Rejected
+Kotak Mahindra Bank,Car Loan,1981295,11.29,20,14879,18640.68,Rejected
+Bank of Baroda,Education Loan,1642367,9.97,5,15459,13645.33,Accepted
+Kotak Mahindra Bank,Home Loan,2875467,11.98,10,9707,28706.75,Rejected
+Bank of India,Education Loan,983423,9.99,15,8474,8187.0,Accepted
+Bank of India,Education Loan,1602926,8.9,20,17424,11888.37,Accepted
+State Bank of India,Car Loan,1826268,10.33,5,5517,15721.12,Rejected
+State Bank of India,Education Loan,1758106,7.29,15,12973,10680.49,Accepted
+Bank of Baroda,Car Loan,1295922,7.91,5,4172,8542.29,Accepted
+Kotak Mahindra Bank,Car Loan,2266027,9.34,15,16895,17637.24,Rejected
+IndusInd Bank,Business Loan,802153,7.26,10,14773,4853.03,Rejected
+Bank of Baroda,Business Loan,518352,7.3,20,9444,3153.31,Accepted
+IndusInd Bank,Business Loan,1946415,7.22,15,17217,11710.93,Accepted
+ICICI Bank,Personal Loan,1228596,9.61,10,10749,9839.01,Rejected
+HDFC Bank,Home Loan,2699013,10.92,15,16918,24561.02,Rejected
+State Bank of India,Business Loan,2976856,11.42,10,16274,28329.75,Accepted
+Bank of Baroda,Education Loan,2566392,7.29,5,3885,15590.83,Accepted
+Bank of India,Car Loan,1247038,9.61,5,13144,9986.7,Accepted
+Bank of Baroda,Car Loan,2474550,11.78,10,16589,24291.83,Accepted
+Bank of India,Business Loan,701175,10.64,15,14755,6217.09,Rejected
+State Bank of India,Education Loan,2392269,9.43,20,14020,18799.25,Rejected
+Bank of Baroda,Business Loan,1701214,8.82,20,14333,12503.92,Rejected
+Bank of India,Business Loan,1499279,7.21,15,6365,9008.17,Rejected
+Kotak Mahindra Bank,Personal Loan,2484651,10.76,15,17721,22279.04,Rejected
+IndusInd Bank,Personal Loan,2971359,8.43,15,17729,20873.8,Rejected
+ICICI Bank,Car Loan,1445504,7.67,5,5211,9239.18,Accepted
+HDFC Bank,Education Loan,1515317,11.12,15,7154,14041.94,Accepted
+Kotak Mahindra Bank,Education Loan,2286790,9.02,5,9997,17189.04,Accepted
+HDFC Bank,Car Loan,2237897,8.27,15,3330,15422.84,Rejected
+IndusInd Bank,Personal Loan,2601253,10.87,10,8025,23563.02,Accepted
+Axis Bank,Car Loan,2828518,7.34,20,6649,17301.1,Rejected
+Kotak Mahindra Bank,Business Loan,618169,7.25,5,19768,3734.77,Accepted
+Punjab National Bank,Home Loan,1634033,8.45,15,5093,11506.32,Rejected
+IndusInd Bank,Home Loan,1756262,9.54,5,9421,13962.28,Rejected
+Yes Bank,Business Loan,1493841,10.22,5,12384,12722.55,Accepted
+IndusInd Bank,Education Loan,2876975,11.82,10,4437,28338.2,Rejected
+Bank of India,Education Loan,983062,11.19,10,9136,9167.05,Rejected
+IndusInd Bank,Personal Loan,2615627,7.95,20,10654,17328.53,Accepted
+Punjab National Bank,Business Loan,2175312,7.31,20,16966,13251.28,Rejected
+IndusInd Bank,Car Loan,1709228,7.02,5,16448,9998.98,Rejected
+State Bank of India,Car Loan,2235277,11.48,15,3843,21384.15,Rejected
+Bank of India,Car Loan,2234579,9.3,5,15112,17317.99,Accepted
+State Bank of India,Home Loan,2122897,11.42,10,9591,20202.9,Accepted
+Punjab National Bank,Education Loan,2887039,11.67,20,11954,28076.45,Rejected
+Kotak Mahindra Bank,Personal Loan,822326,10.84,15,15230,7428.34,Rejected
+Bank of Baroda,Home Loan,2544981,9.21,20,17904,19532.73,Rejected
+Bank of India,Car Loan,1191877,8.6,20,12173,8541.79,Rejected
+Bank of Baroda,Business Loan,1076518,11.11,15,6186,9966.76,Rejected
+Punjab National Bank,Car Loan,1923305,7.81,10,11676,12517.51,Accepted
+Bank of Baroda,Business Loan,1509006,10.9,15,4929,13706.8,Accepted
+ICICI Bank,Business Loan,829993,9.8,15,11628,6778.28,Accepted
+Axis Bank,Home Loan,2253080,8.1,20,19286,15208.29,Accepted
+HDFC Bank,Personal Loan,2857018,11.97,15,10127,28498.75,Accepted
+Bank of Baroda,Car Loan,1582085,8.0,10,6430,10547.23,Accepted
+ICICI Bank,Home Loan,2041274,9.73,10,13828,16551.33,Rejected
+Bank of Baroda,Personal Loan,1573203,8.12,15,16264,10645.34,Rejected
+ICICI Bank,Car Loan,2707420,7.48,5,9286,16876.25,Accepted
+IndusInd Bank,Car Loan,682006,11.77,20,3748,6689.34,Rejected
+Yes Bank,Education Loan,2243274,9.67,5,13043,18077.05,Accepted
+Bank of Baroda,Home Loan,2767748,10.48,5,15629,24171.67,Rejected
+IndusInd Bank,Personal Loan,939940,8.9,15,14189,6971.22,Accepted
+Axis Bank,Car Loan,1320218,11.5,10,4790,12652.09,Accepted
+Axis Bank,Education Loan,2445743,10.47,10,15517,21339.11,Rejected
+State Bank of India,Car Loan,692469,7.49,15,19307,4322.16,Rejected
+IndusInd Bank,Business Loan,1000228,10.64,10,6107,8868.69,Rejected
+Bank of Baroda,Car Loan,543258,7.32,10,12646,3313.87,Accepted
+State Bank of India,Business Loan,2500450,8.37,5,5243,17440.64,Rejected
+HDFC Bank,Car Loan,2277854,7.87,5,3151,14938.93,Rejected
+Kotak Mahindra Bank,Personal Loan,1180858,9.89,20,10366,9732.24,Accepted
+Bank of Baroda,Car Loan,2581999,7.77,5,18897,16718.44,Accepted
+Axis Bank,Education Loan,1195436,11.77,10,18155,11725.23,Rejected
+IndusInd Bank,Education Loan,2999765,11.91,15,14880,29772.67,Rejected
+ICICI Bank,Home Loan,1491153,11.59,20,3046,14402.05,Accepted
+Kotak Mahindra Bank,Education Loan,2289572,10.49,10,4069,20014.68,Accepted
+Punjab National Bank,Business Loan,2814726,8.36,15,10623,19609.26,Accepted
+IndusInd Bank,Home Loan,1766393,8.5,20,18509,12511.95,Rejected
+IndusInd Bank,Car Loan,1422685,10.03,15,10137,11891.28,Accepted
+Axis Bank,Business Loan,1265674,11.08,15,5168,11686.39,Rejected
+Kotak Mahindra Bank,Car Loan,2930511,9.88,5,17299,24127.87,Rejected
+Kotak Mahindra Bank,Personal Loan,615950,11.5,10,17441,5902.85,Rejected
+ICICI Bank,Home Loan,1986113,7.53,20,9419,12462.86,Rejected
+Kotak Mahindra Bank,Education Loan,1531705,8.97,5,18965,11449.49,Accepted
+Bank of Baroda,Car Loan,707319,7.06,15,14152,4161.39,Rejected
+State Bank of India,Education Loan,1199944,10.56,15,4980,10559.51,Accepted
+Punjab National Bank,Car Loan,848221,9.93,10,9460,7019.03,Rejected
+Bank of India,Car Loan,2258481,8.92,5,19939,16788.04,Rejected
+HDFC Bank,Business Loan,1181823,9.03,10,14559,8893.22,Rejected
+HDFC Bank,Business Loan,887855,10.91,5,14807,8072.08,Rejected
+Bank of Baroda,Business Loan,925845,11.73,20,13874,9050.13,Accepted
+Kotak Mahindra Bank,Car Loan,2859292,11.28,20,16624,26877.34,Rejected
+IndusInd Bank,Car Loan,1386379,9.1,20,17742,10513.37,Rejected
+Axis Bank,Business Loan,2459768,9.28,15,16559,19022.21,Rejected
+Bank of India,Business Loan,1278280,11.37,15,16071,12111.7,Accepted
+Yes Bank,Car Loan,1020834,7.35,10,16577,6252.61,Rejected
+Punjab National Bank,Personal Loan,1374829,8.16,10,15214,9348.84,Accepted
+Yes Bank,Business Loan,2882429,11.02,15,19578,26470.31,Rejected
+Axis Bank,Personal Loan,2197134,7.11,15,10840,13018.02,Accepted
+Bank of India,Personal Loan,1786810,8.23,10,3803,12254.54,Rejected
+Bank of Baroda,Business Loan,1746040,8.82,10,15660,12833.39,Accepted
+Axis Bank,Home Loan,2873712,8.97,10,3229,21481.0,Accepted
+Yes Bank,Home Loan,2212830,7.2,5,11911,13276.98,Rejected
+Axis Bank,Education Loan,2726910,8.28,10,14186,18815.68,Accepted
+Kotak Mahindra Bank,Personal Loan,1360598,8.44,5,11604,9569.54,Rejected
+IndusInd Bank,Car Loan,830119,11.81,5,19832,8169.75,Rejected
+IndusInd Bank,Car Loan,1622278,10.05,5,12036,13586.58,Rejected
+IndusInd Bank,Car Loan,2962987,8.04,20,14434,19852.01,Rejected
+Bank of India,Education Loan,1226976,9.63,5,14019,9846.48,Accepted
+IndusInd Bank,Education Loan,2479065,10.7,20,12101,22105.0,Rejected
+Bank of India,Personal Loan,1689973,9.55,15,7669,13449.37,Accepted
+Yes Bank,Personal Loan,687046,8.38,5,4853,4797.87,Accepted
+Bank of India,Business Loan,1848275,11.77,5,15650,18128.5,Rejected
+Yes Bank,Business Loan,2069215,9.18,5,17921,15829.49,Accepted
+IndusInd Bank,Home Loan,1402020,8.57,15,14548,10012.76,Rejected
+ICICI Bank,Business Loan,712685,8.68,15,18923,5155.09,Rejected
+ICICI Bank,Car Loan,1083183,8.41,20,16654,7591.31,Rejected
+Yes Bank,Personal Loan,2182128,7.41,10,14548,13474.64,Rejected
+HDFC Bank,Business Loan,969650,11.7,5,7815,9454.09,Accepted
+IndusInd Bank,Business Loan,1570020,8.07,15,18810,10558.38,Rejected
+IndusInd Bank,Car Loan,1266359,11.05,15,18564,11661.06,Rejected
+HDFC Bank,Education Loan,2751802,8.32,15,12683,19079.16,Accepted
+State Bank of India,Business Loan,2751170,11.48,5,8652,26319.53,Rejected
+Punjab National Bank,Business Loan,2356590,11.84,10,11240,23251.69,Accepted
+Bank of India,Car Loan,822973,8.72,20,5729,5980.27,Accepted
+ICICI Bank,Business Loan,2924623,9.84,5,6756,23981.91,Accepted
+HDFC Bank,Business Loan,2531321,7.71,15,6695,16263.74,Rejected
+Bank of India,Business Loan,1717929,7.72,5,8475,11052.01,Rejected
+Yes Bank,Home Loan,893085,8.77,20,12482,6526.96,Rejected
+Axis Bank,Business Loan,1160680,8.4,5,18129,8124.76,Accepted
+HDFC Bank,Education Loan,2684209,8.39,15,8495,18767.09,Accepted
+HDFC Bank,Education Loan,1914483,9.35,20,8747,14917.01,Accepted
+Axis Bank,Personal Loan,1205869,11.75,20,17227,11807.47,Accepted
+State Bank of India,Personal Loan,1537500,9.33,20,13556,11954.06,Rejected
+ICICI Bank,Education Loan,2832560,8.37,5,3841,19757.11,Rejected
+Kotak Mahindra Bank,Home Loan,2816048,7.74,20,15981,18163.51,Accepted
+Kotak Mahindra Bank,Car Loan,885032,11.51,5,11574,8488.93,Rejected
+Bank of India,Home Loan,1925257,9.12,5,8088,14631.95,Rejected
+Bank of Baroda,Personal Loan,1727370,7.93,5,12844,11415.04,Accepted
+Punjab National Bank,Home Loan,1297835,11.55,5,16967,12491.66,Rejected
+Yes Bank,Personal Loan,748482,10.77,5,11328,6717.63,Accepted
+Yes Bank,Home Loan,1792828,7.49,10,9527,11190.23,Rejected
+ICICI Bank,Personal Loan,2652567,7.02,20,14809,15517.52,Accepted
+ICICI Bank,Home Loan,783439,7.48,10,6994,4883.44,Accepted
+Bank of Baroda,Education Loan,1832067,11.17,20,5744,17053.49,Accepted
+IndusInd Bank,Education Loan,1484045,10.68,10,18929,13208.0,Accepted
+Punjab National Bank,Home Loan,2525134,11.95,15,4646,25146.13,Accepted
+Yes Bank,Car Loan,2690747,7.59,5,10195,17018.97,Accepted
+HDFC Bank,Personal Loan,2603211,9.52,15,12595,20652.14,Rejected
+HDFC Bank,Education Loan,2310646,10.62,5,11347,20449.22,Accepted
+IndusInd Bank,Car Loan,1502893,11.52,5,12059,14427.77,Rejected
+HDFC Bank,Business Loan,2783499,7.31,10,6636,16956.15,Accepted
+ICICI Bank,Business Loan,1337886,11.68,10,3487,13022.09,Accepted
+Yes Bank,Home Loan,2225010,8.92,15,10679,16539.24,Accepted
+HDFC Bank,Car Loan,2183044,7.93,15,3830,14426.28,Accepted
+IndusInd Bank,Education Loan,1436251,8.58,20,18441,10269.19,Accepted
+Bank of India,Business Loan,1122331,10.87,10,8812,10166.45,Accepted
+Yes Bank,Business Loan,971058,11.0,5,6682,8901.36,Rejected
+Bank of Baroda,Business Loan,2567896,11.3,5,8645,24181.02,Accepted
+Axis Bank,Car Loan,2860941,9.95,5,6356,23721.97,Rejected
+Bank of India,Car Loan,1676306,7.95,10,4705,11105.53,Accepted
+ICICI Bank,Education Loan,1196120,7.53,15,11159,7505.65,Rejected
+Yes Bank,Personal Loan,2390522,9.48,5,15042,18885.12,Accepted
+Yes Bank,Personal Loan,1198210,8.65,5,18667,8637.1,Rejected
+IndusInd Bank,Business Loan,565134,11.92,20,5503,5613.66,Rejected
+Bank of Baroda,Car Loan,2218851,10.99,15,16448,20320.98,Rejected
+Bank of Baroda,Business Loan,847237,11.46,20,13253,8091.11,Rejected
+Bank of Baroda,Education Loan,1897850,9.54,5,15244,15087.91,Accepted
+Axis Bank,Car Loan,1563935,9.8,10,3122,12772.14,Rejected
+Bank of Baroda,Home Loan,2236165,9.89,15,5985,18429.73,Rejected
+Bank of Baroda,Personal Loan,2685907,10.47,15,5973,23434.54,Rejected
+Kotak Mahindra Bank,Business Loan,876329,10.88,5,19111,7945.38,Accepted
+ICICI Bank,Car Loan,1944340,10.05,15,16706,16283.85,Accepted
+Punjab National Bank,Personal Loan,1785676,8.01,20,7672,11919.39,Accepted
+IndusInd Bank,Education Loan,1419209,8.74,10,3313,10336.57,Rejected
+Kotak Mahindra Bank,Personal Loan,1218263,9.97,20,14710,10121.74,Rejected
+Yes Bank,Car Loan,2028334,10.42,20,4836,17612.7,Accepted
+Kotak Mahindra Bank,Business Loan,2445316,11.93,10,6435,24310.52,Accepted
+Yes Bank,Business Loan,2772403,8.56,10,14973,19776.47,Accepted
+Bank of Baroda,Business Loan,1574178,9.77,5,8054,12816.43,Rejected
+Bank of Baroda,Education Loan,1108832,8.89,15,14875,8214.6,Rejected
+IndusInd Bank,Car Loan,2571408,9.55,20,19619,20464.12,Accepted
+Bank of Baroda,Education Loan,1611805,8.24,5,17455,11067.73,Rejected
+ICICI Bank,Education Loan,1026159,10.14,20,11367,8671.04,Rejected
+Yes Bank,Personal Loan,1066211,11.56,15,10628,10271.17,Rejected
+Bank of India,Home Loan,1719525,11.47,20,6774,16435.79,Rejected
+HDFC Bank,Business Loan,1399901,9.76,10,19719,11385.86,Rejected
+Yes Bank,Home Loan,1284832,11.62,10,14904,12441.46,Accepted
+HDFC Bank,Business Loan,2267718,11.09,10,14827,20957.49,Accepted
+IndusInd Bank,Education Loan,2650583,10.51,15,11926,23214.69,Accepted
+Bank of Baroda,Home Loan,1451120,9.22,15,7962,11149.44,Rejected
+Bank of Baroda,Business Loan,1177450,9.94,5,6065,9753.21,Accepted
+State Bank of India,Education Loan,2942983,11.62,10,15942,28497.89,Rejected
+HDFC Bank,Home Loan,2469759,11.92,5,8537,24532.94,Accepted
+Punjab National Bank,Car Loan,1901164,10.11,10,12463,16017.31,Rejected
+State Bank of India,Car Loan,918743,8.13,15,19275,6224.48,Accepted
+HDFC Bank,Business Loan,2654921,11.54,15,19465,25531.49,Rejected
+Yes Bank,Home Loan,2172413,7.27,20,8785,13161.2,Rejected
+Yes Bank,Business Loan,943139,10.47,20,10612,8228.89,Accepted
+Punjab National Bank,Home Loan,2562443,9.83,20,19031,20990.68,Rejected
+Punjab National Bank,Home Loan,1123171,9.82,20,8029,9191.28,Rejected
+Axis Bank,Car Loan,1886945,11.61,20,12100,18256.19,Accepted
+Yes Bank,Business Loan,1103964,11.04,20,3417,10156.47,Rejected
+IndusInd Bank,Personal Loan,2382070,7.89,20,19486,15662.11,Accepted
+IndusInd Bank,Education Loan,1882665,9.46,20,10261,14841.68,Accepted
+Yes Bank,Business Loan,2034779,9.42,5,12586,15973.02,Accepted
+HDFC Bank,Home Loan,2238265,11.36,5,17893,21188.91,Accepted
+Kotak Mahindra Bank,Education Loan,1615470,9.24,15,5971,12439.12,Rejected
+IndusInd Bank,Education Loan,1264264,11.61,10,17292,12231.75,Accepted
+Yes Bank,Business Loan,607439,9.08,15,10021,4596.29,Rejected
+Yes Bank,Personal Loan,2118890,7.69,15,17267,13578.55,Rejected
+Punjab National Bank,Business Loan,1187766,9.2,10,11918,9106.21,Accepted
+IndusInd Bank,Home Loan,1366833,9.95,15,11074,11333.32,Accepted
+Axis Bank,Education Loan,1857033,11.12,10,5819,17208.51,Accepted
+HDFC Bank,Car Loan,1082919,11.65,15,13578,10513.34,Rejected
+Bank of Baroda,Home Loan,1595502,9.69,10,17123,12883.68,Accepted
+IndusInd Bank,Business Loan,1602003,11.51,5,16028,15365.88,Accepted
+State Bank of India,Car Loan,2999837,9.34,20,18801,23348.73,Rejected
+Bank of India,Business Loan,1362518,9.28,15,16582,10536.81,Rejected
+HDFC Bank,Home Loan,973223,10.82,5,19346,8775.23,Accepted
+Punjab National Bank,Education Loan,992091,7.62,20,12169,6299.78,Rejected
+ICICI Bank,Personal Loan,1777933,9.11,10,7204,13497.47,Accepted
+Bank of India,Car Loan,1081296,8.36,15,3648,7533.03,Accepted
+Punjab National Bank,Car Loan,1173746,7.04,15,16121,6885.98,Accepted
+Punjab National Bank,Business Loan,1025256,8.5,15,12182,7262.23,Accepted
+Punjab National Bank,Car Loan,2875575,9.73,20,6490,23316.12,Rejected
+Bank of Baroda,Car Loan,2503334,9.92,10,5065,20694.23,Accepted
+Yes Bank,Personal Loan,2905475,7.24,20,19401,17529.7,Rejected
+Punjab National Bank,Business Loan,2546806,7.73,10,15608,16405.68,Rejected
+Punjab National Bank,Home Loan,2846178,7.57,20,8134,17954.64,Accepted
+IndusInd Bank,Home Loan,1921077,8.82,5,3391,14119.92,Rejected
+Kotak Mahindra Bank,Home Loan,1095592,8.74,15,18198,7979.56,Accepted
+Yes Bank,Personal Loan,2448352,10.06,10,7714,20525.35,Accepted
+HDFC Bank,Personal Loan,1879851,9.48,5,8291,14850.82,Rejected
+Bank of Baroda,Education Loan,1056304,9.22,5,12812,8115.94,Accepted
+HDFC Bank,Education Loan,1924521,7.32,15,13256,11739.58,Rejected
+IndusInd Bank,Home Loan,1879614,11.51,5,5843,18028.63,Rejected
+HDFC Bank,Home Loan,2767474,7.65,5,11616,17642.65,Rejected
+IndusInd Bank,Personal Loan,995455,8.56,20,5868,7100.91,Rejected
+State Bank of India,Home Loan,744869,10.24,20,8189,6356.22,Accepted
+State Bank of India,Home Loan,1685124,9.73,5,14061,13663.55,Rejected
+Kotak Mahindra Bank,Car Loan,1767991,8.0,10,18583,11786.61,Accepted
+State Bank of India,Personal Loan,1310386,11.18,15,6397,12208.43,Accepted
+State Bank of India,Business Loan,2067418,9.47,5,7488,16315.37,Rejected
+Bank of India,Home Loan,1784897,11.32,5,12658,16837.53,Accepted
+Bank of India,Home Loan,1114567,7.21,20,18283,6696.69,Rejected
+ICICI Bank,Home Loan,911205,10.87,5,18573,8254.0,Accepted
+HDFC Bank,Car Loan,2921847,11.23,10,15232,27343.62,Rejected
+ICICI Bank,Car Loan,806290,10.16,5,16305,6826.59,Rejected
+Punjab National Bank,Education Loan,2722284,9.55,20,12039,21664.84,Accepted
+State Bank of India,Home Loan,2212622,9.83,20,8052,18125.06,Accepted
+HDFC Bank,Personal Loan,2211649,9.77,10,7187,18006.51,Rejected
+IndusInd Bank,Business Loan,2075589,10.47,15,9951,18109.51,Accepted
+Bank of Baroda,Home Loan,2384447,11.21,10,17091,22274.71,Accepted
+IndusInd Bank,Education Loan,1468799,10.34,20,6227,12656.15,Accepted
+Kotak Mahindra Bank,Home Loan,1553555,8.37,20,18604,10836.05,Accepted
+IndusInd Bank,Home Loan,2271570,7.25,15,14468,13724.07,Accepted
+Axis Bank,Education Loan,1204028,9.86,20,13359,9893.1,Accepted
+State Bank of India,Education Loan,2603423,7.55,15,14251,16379.87,Accepted
+Kotak Mahindra Bank,Education Loan,1493967,9.33,10,19592,11615.59,Rejected
+Axis Bank,Education Loan,759043,9.57,20,8250,6053.37,Rejected
+IndusInd Bank,Home Loan,2467165,10.35,20,5633,21279.3,Rejected
+ICICI Bank,Personal Loan,2172022,9.63,5,16352,17430.48,Accepted
+HDFC Bank,Home Loan,784778,8.24,20,11305,5388.81,Rejected
+IndusInd Bank,Business Loan,883208,7.11,10,10281,5233.01,Rejected
+IndusInd Bank,Car Loan,2699327,7.6,15,14607,17095.74,Accepted
+IndusInd Bank,Car Loan,2460787,8.48,5,16102,17389.56,Rejected
+Punjab National Bank,Personal Loan,2222702,9.91,5,11254,18355.81,Rejected
+State Bank of India,Business Loan,2056715,10.44,20,18813,17893.42,Rejected
+HDFC Bank,Home Loan,1275596,7.92,5,7769,8418.93,Rejected
+ICICI Bank,Home Loan,2204194,11.5,15,7550,21123.53,Rejected
+Axis Bank,Education Loan,1018503,10.27,5,12496,8716.69,Rejected
+Axis Bank,Business Loan,1754128,9.75,15,4992,14252.29,Rejected
+State Bank of India,Business Loan,655678,11.64,10,16575,6360.08,Accepted
+IndusInd Bank,Personal Loan,2318295,8.38,20,10214,16189.43,Rejected
+ICICI Bank,Education Loan,1392339,11.06,10,8697,12832.72,Accepted
+Kotak Mahindra Bank,Home Loan,871247,11.97,10,13139,8690.69,Rejected
+HDFC Bank,Education Loan,658241,7.9,5,8885,4333.42,Accepted
+HDFC Bank,Education Loan,2132872,8.77,20,18871,15587.74,Accepted
+State Bank of India,Car Loan,1313034,10.4,10,19890,11379.63,Accepted
+Bank of Baroda,Personal Loan,1209023,8.82,5,11839,8886.32,Accepted
+HDFC Bank,Home Loan,895654,8.72,15,5706,6508.42,Accepted
+Punjab National Bank,Personal Loan,832481,8.21,10,7371,5695.56,Rejected
+Axis Bank,Education Loan,1371972,8.42,20,13577,9626.67,Accepted
+Punjab National Bank,Personal Loan,2441982,10.49,20,11894,21346.99,Rejected
+Yes Bank,Business Loan,1397464,8.93,10,6451,10399.46,Accepted
+State Bank of India,Business Loan,1186050,11.19,10,11476,11059.92,Accepted
+Bank of Baroda,Business Loan,1204140,10.17,5,7423,10205.09,Rejected
+State Bank of India,Education Loan,2924875,11.72,15,15197,28566.28,Accepted
+Bank of India,Home Loan,1266044,7.57,10,13080,7986.63,Accepted
+ICICI Bank,Home Loan,1002434,10.99,10,17982,9180.62,Rejected
+Bank of Baroda,Education Loan,1573606,10.61,20,12939,13913.3,Rejected
+HDFC Bank,Car Loan,2147709,10.29,10,9624,18416.6,Rejected
+Bank of India,Business Loan,2110655,8.43,5,19689,14827.35,Accepted
+Punjab National Bank,Home Loan,1734058,8.12,15,6310,11733.79,Accepted
+State Bank of India,Home Loan,2102150,7.24,20,19023,12682.97,Accepted
+Axis Bank,Personal Loan,2543648,8.2,20,8882,17381.59,Rejected
+Bank of India,Education Loan,536386,7.57,20,9122,3383.7,Rejected
+Kotak Mahindra Bank,Personal Loan,2470570,11.03,10,12618,22708.66,Accepted
+IndusInd Bank,Education Loan,1156684,8.18,10,4252,7884.73,Rejected
+Bank of India,Education Loan,941766,11.22,20,5230,8805.51,Rejected
+Axis Bank,Car Loan,2462661,11.72,20,7083,24051.99,Accepted
+ICICI Bank,Home Loan,667898,7.77,10,18986,4324.64,Accepted
+ICICI Bank,Home Loan,1713674,9.33,15,15223,13323.82,Rejected
+Kotak Mahindra Bank,Car Loan,1789522,9.13,20,8651,13615.28,Accepted
+Bank of India,Car Loan,1061517,10.0,15,14723,8845.98,Rejected
+Punjab National Bank,Car Loan,2122316,11.32,20,15683,20020.51,Accepted
+Yes Bank,Personal Loan,2034977,9.73,15,19133,16500.27,Accepted
+HDFC Bank,Home Loan,2921445,11.59,15,14998,28216.29,Accepted
+IndusInd Bank,Car Loan,978062,9.22,15,4076,7514.78,Accepted
+Axis Bank,Personal Loan,726912,7.52,20,6513,4555.32,Rejected
+Axis Bank,Education Loan,1819978,7.64,5,18706,11587.19,Accepted
+Yes Bank,Personal Loan,1274653,7.58,20,9695,8051.56,Rejected
+HDFC Bank,Personal Loan,1852117,8.64,15,14020,13335.24,Rejected
+Bank of India,Business Loan,2197797,10.17,10,5640,18626.33,Rejected
+Axis Bank,Business Loan,829138,9.29,20,3494,6418.91,Rejected
+IndusInd Bank,Home Loan,2969401,8.38,20,10521,20736.32,Accepted
+Kotak Mahindra Bank,Education Loan,628482,8.45,15,11770,4425.56,Accepted
+IndusInd Bank,Car Loan,2591942,11.01,5,6434,23781.07,Rejected
+Axis Bank,Education Loan,1354111,9.69,5,14934,10934.45,Rejected
+State Bank of India,Personal Loan,1900347,11.38,5,9179,18021.62,Rejected
+State Bank of India,Home Loan,812214,11.96,15,19533,8095.07,Rejected
+Bank of India,Home Loan,1401716,7.39,5,4704,8632.23,Rejected
+Axis Bank,Car Loan,1259417,7.69,20,15075,8070.76,Rejected
+HDFC Bank,Business Loan,1371318,11.91,5,18023,13610.33,Rejected
+ICICI Bank,Car Loan,1270097,8.71,5,19508,9218.79,Rejected
+State Bank of India,Car Loan,1417834,8.79,5,14248,10385.63,Rejected
+IndusInd Bank,Home Loan,1054496,10.6,20,5006,9314.71,Rejected
+ICICI Bank,Business Loan,1478234,7.79,5,8025,9596.2,Rejected
+Bank of Baroda,Personal Loan,2121025,9.67,10,7347,17091.93,Rejected
+Axis Bank,Business Loan,2419122,10.39,15,15608,20945.56,Accepted
+ICICI Bank,Car Loan,2310855,8.44,5,19952,16253.01,Accepted
+Punjab National Bank,Business Loan,2921844,9.26,20,7143,22546.9,Accepted
+State Bank of India,Personal Loan,2966323,8.08,5,6644,19973.24,Rejected
+IndusInd Bank,Business Loan,872971,8.99,15,3470,6540.01,Rejected
+State Bank of India,Personal Loan,2139572,8.42,20,11250,15012.66,Rejected
+Kotak Mahindra Bank,Education Loan,2063990,9.66,5,4403,16615.12,Rejected
+State Bank of India,Personal Loan,2939096,9.03,10,3229,22116.7,Rejected
+HDFC Bank,Personal Loan,2114498,10.78,15,17769,18995.24,Accepted
+State Bank of India,Personal Loan,2708026,8.56,15,16204,19317.25,Rejected
+Kotak Mahindra Bank,Education Loan,2590142,9.71,5,5543,20958.57,Accepted
+Yes Bank,Personal Loan,656100,8.31,15,10291,4543.49,Accepted
+IndusInd Bank,Business Loan,1630290,9.03,20,9589,12267.93,Rejected
+Bank of India,Car Loan,2548374,11.07,10,11071,23508.75,Rejected
+Bank of India,Home Loan,1291654,10.99,15,17558,11829.4,Accepted
+HDFC Bank,Personal Loan,1231842,9.49,15,3046,9741.82,Accepted
+Yes Bank,Education Loan,1706527,9.99,10,15347,14206.84,Accepted
+Punjab National Bank,Personal Loan,960156,7.48,10,3446,5984.97,Rejected
+Bank of Baroda,Education Loan,848857,7.68,15,10875,5432.68,Rejected
+Yes Bank,Business Loan,1263317,11.16,15,19922,11748.85,Rejected
+ICICI Bank,Car Loan,668401,11.14,15,6434,6204.99,Accepted
+ICICI Bank,Education Loan,524547,7.28,20,5398,3182.25,Rejected
+State Bank of India,Home Loan,1699694,7.18,15,6938,10169.84,Rejected
+Axis Bank,Home Loan,2334094,10.07,5,15442,19586.94,Rejected
+Axis Bank,Business Loan,1889221,7.21,5,7312,11351.07,Rejected
+ICICI Bank,Business Loan,1977009,11.62,20,14336,19144.04,Rejected
+Yes Bank,Home Loan,2831244,7.13,15,7186,16822.31,Accepted
+Bank of India,Personal Loan,2127391,9.47,15,5598,16788.66,Rejected
+Bank of India,Business Loan,2368373,8.67,15,12185,17111.49,Accepted
+Axis Bank,Home Loan,1237298,9.67,10,16878,9970.56,Rejected
+ICICI Bank,Car Loan,2009973,7.46,15,8201,12495.33,Accepted
+State Bank of India,Business Loan,993264,9.19,5,4790,7606.75,Accepted
+Bank of Baroda,Education Loan,1154813,9.75,15,11364,9382.86,Accepted
+State Bank of India,Personal Loan,1997188,9.74,5,3194,16210.51,Accepted
+Axis Bank,Car Loan,1232118,11.76,20,9795,12074.76,Rejected
+Axis Bank,Home Loan,1137149,10.35,10,4140,9807.91,Rejected
+State Bank of India,Home Loan,1501178,9.72,20,19727,12159.54,Accepted
+State Bank of India,Business Loan,2390104,7.04,10,6510,14021.94,Rejected
+State Bank of India,Business Loan,587043,7.65,5,6094,3742.4,Rejected
+IndusInd Bank,Car Loan,1621220,10.91,15,10767,14739.59,Rejected
+IndusInd Bank,Car Loan,672113,10.96,5,3930,6138.63,Accepted
+IndusInd Bank,Personal Loan,1402588,9.6,10,10196,11220.7,Rejected
+IndusInd Bank,Personal Loan,1450046,7.42,5,13637,8966.12,Accepted
+HDFC Bank,Home Loan,1152504,10.77,5,9579,10343.72,Rejected
+HDFC Bank,Business Loan,2969058,11.05,20,11948,27340.08,Accepted
+HDFC Bank,Education Loan,1660445,7.39,10,10016,10225.57,Accepted
+ICICI Bank,Education Loan,1694835,7.87,10,14961,11115.29,Accepted
+Axis Bank,Personal Loan,1202779,8.72,15,6089,8740.19,Accepted
+Axis Bank,Car Loan,2923093,7.34,20,10426,17879.59,Accepted
+Punjab National Bank,Home Loan,2103104,10.03,5,12323,17578.44,Rejected
+Punjab National Bank,Personal Loan,2171121,8.43,20,10194,15252.13,Rejected
+Punjab National Bank,Home Loan,2021499,9.46,5,15865,15936.15,Accepted
+State Bank of India,Home Loan,962614,9.06,20,10580,7267.74,Rejected
+Yes Bank,Car Loan,2677415,8.92,10,19915,19902.12,Rejected
+Kotak Mahindra Bank,Education Loan,1471095,8.63,15,19768,10579.62,Rejected
+Bank of Baroda,Education Loan,2828169,11.24,5,16208,26490.52,Accepted
+State Bank of India,Education Loan,505545,9.1,10,13915,3833.72,Rejected
+Bank of India,Business Loan,917269,10.01,10,16057,7651.55,Rejected
+Axis Bank,Business Loan,1834972,8.26,15,19050,12630.72,Rejected
+Kotak Mahindra Bank,Personal Loan,518434,7.25,5,11028,3132.21,Accepted
+Punjab National Bank,Business Loan,2125715,8.74,15,16499,15482.29,Rejected
+Kotak Mahindra Bank,Car Loan,1272704,11.22,20,8890,11899.78,Rejected
+Yes Bank,Personal Loan,2041448,10.35,15,4589,17607.49,Accepted
+Kotak Mahindra Bank,Business Loan,1322508,8.38,5,11325,9235.51,Accepted
+State Bank of India,Business Loan,2419207,9.83,15,5677,19817.34,Accepted
+Bank of India,Car Loan,989098,9.5,20,13646,7830.36,Accepted
+Axis Bank,Car Loan,2872504,8.23,5,4410,19700.59,Rejected
+Axis Bank,Personal Loan,645044,7.8,5,7447,4192.79,Rejected
+IndusInd Bank,Business Loan,1265292,8.01,20,6364,8445.82,Accepted
+Yes Bank,Education Loan,1380755,7.79,10,15448,8963.4,Accepted
+Bank of India,Home Loan,1456467,11.4,10,4935,13836.44,Accepted
+Bank of India,Personal Loan,666039,10.02,10,18161,5561.43,Rejected
+Axis Bank,Education Loan,2687760,7.68,20,17666,17201.66,Accepted
+State Bank of India,Education Loan,1075140,7.57,20,6971,6782.34,Accepted
+Axis Bank,Personal Loan,1385243,8.98,5,17457,10366.24,Rejected
+IndusInd Bank,Education Loan,1502229,9.63,20,7137,12055.39,Accepted
+State Bank of India,Personal Loan,703041,8.41,15,4169,4927.15,Rejected
+Axis Bank,Car Loan,595693,7.28,5,7718,3613.87,Accepted
+Bank of India,Car Loan,1105973,7.61,10,15671,7013.71,Accepted
+Yes Bank,Home Loan,1348584,9.16,20,10912,10294.19,Rejected
+State Bank of India,Car Loan,1210837,7.44,15,19312,7507.19,Accepted
+Bank of Baroda,Car Loan,1872955,8.79,5,13086,13719.4,Rejected
+Punjab National Bank,Business Loan,2538131,11.66,10,17625,24662.17,Accepted
+ICICI Bank,Personal Loan,611820,8.74,5,4937,4456.09,Rejected
+Kotak Mahindra Bank,Business Loan,2740451,9.94,10,17692,22700.07,Rejected
+ICICI Bank,Education Loan,1632202,8.5,10,8751,11561.43,Accepted
+Bank of Baroda,Personal Loan,2230062,10.83,15,17730,20126.31,Accepted
+Axis Bank,Personal Loan,1562450,10.96,10,19820,14270.38,Rejected
+Kotak Mahindra Bank,Education Loan,1298807,11.15,5,9963,12068.08,Accepted
+HDFC Bank,Personal Loan,2258784,11.43,10,14672,21514.92,Rejected
+Kotak Mahindra Bank,Business Loan,1472051,11.91,15,14748,14610.11,Accepted
+HDFC Bank,Car Loan,1164991,11.72,10,12779,11378.08,Rejected
+IndusInd Bank,Home Loan,2157897,9.5,5,11938,17083.35,Rejected
+Bank of Baroda,Education Loan,2700309,8.8,20,15034,19802.27,Rejected
+Bank of Baroda,Business Loan,1227050,8.94,15,13024,9141.52,Rejected
+Axis Bank,Business Loan,1604801,11.11,15,10668,14857.78,Accepted
+Yes Bank,Business Loan,2065261,10.88,10,13039,18725.03,Accepted
+Bank of India,Personal Loan,1333660,9.86,5,7815,10958.24,Accepted
+IndusInd Bank,Business Loan,1179755,11.61,10,9924,11414.13,Accepted
+IndusInd Bank,Home Loan,1380043,8.98,20,15969,10327.32,Rejected
+IndusInd Bank,Car Loan,792762,8.79,5,14406,5806.98,Rejected
+Bank of Baroda,Home Loan,2475666,10.46,15,14481,21579.56,Rejected
+State Bank of India,Car Loan,2872601,11.47,15,10237,27457.28,Accepted
+Kotak Mahindra Bank,Home Loan,639147,11.08,15,9041,5901.46,Rejected
+ICICI Bank,Home Loan,1682927,9.09,10,19054,12748.17,Accepted
+Bank of India,Car Loan,2285775,10.38,20,17498,19771.95,Accepted
+Punjab National Bank,Business Loan,522632,11.93,15,11259,5195.83,Accepted
+Bank of Baroda,Car Loan,1814624,8.96,15,3796,13549.19,Accepted
+Punjab National Bank,Business Loan,2712407,11.79,10,17261,26649.4,Accepted
+IndusInd Bank,Home Loan,2283112,9.67,15,18225,18398.08,Rejected
+Punjab National Bank,Education Loan,1991794,8.11,20,12731,13461.21,Rejected
+Axis Bank,Personal Loan,2578675,9.44,10,10153,20285.58,Accepted
+Bank of Baroda,Business Loan,517969,9.78,5,13951,4221.45,Rejected
+State Bank of India,Home Loan,1540622,9.19,5,9765,11798.6,Rejected
+Bank of India,Education Loan,1520370,10.22,10,10419,12948.48,Rejected
+Bank of India,Home Loan,1895713,7.66,20,4301,12100.97,Rejected
+Yes Bank,Car Loan,688606,11.32,10,10036,6495.85,Accepted
+State Bank of India,Personal Loan,2783199,8.47,10,12874,19644.75,Accepted
+Axis Bank,Personal Loan,599714,11.92,10,15581,5957.16,Rejected
+Yes Bank,Home Loan,1640852,11.87,10,13573,16230.76,Rejected
+Axis Bank,Car Loan,1394726,10.6,20,6374,12320.08,Accepted
+Axis Bank,Personal Loan,1387245,8.99,15,16840,10392.78,Rejected
+ICICI Bank,Home Loan,2622862,10.41,5,10368,22753.33,Accepted
+Bank of India,Business Loan,661525,9.31,10,15498,5132.33,Accepted
+Kotak Mahindra Bank,Car Loan,1463346,11.19,20,13381,13645.7,Rejected
+Kotak Mahindra Bank,Car Loan,1979571,7.05,5,15370,11629.98,Rejected
+Yes Bank,Personal Loan,1053114,7.69,15,4411,6748.71,Accepted
+IndusInd Bank,Education Loan,1494775,10.75,5,3737,13390.69,Accepted
+Bank of Baroda,Business Loan,748559,11.38,5,11960,7098.83,Rejected
+ICICI Bank,Education Loan,2704717,7.39,10,14212,16656.55,Accepted
+HDFC Bank,Education Loan,1132785,10.42,5,4316,9836.35,Rejected
+Axis Bank,Home Loan,866746,10.89,15,16886,7865.72,Rejected
+ICICI Bank,Education Loan,735393,11.33,5,15236,6943.34,Accepted
+HDFC Bank,Business Loan,1286230,10.35,5,10998,11093.73,Accepted
+Bank of India,Education Loan,1968337,9.68,5,10585,15877.92,Rejected
+Kotak Mahindra Bank,Business Loan,2411125,8.49,5,5225,17058.71,Rejected
+ICICI Bank,Business Loan,2976941,10.41,20,12740,25824.96,Accepted
+IndusInd Bank,Car Loan,727307,9.86,20,17494,5976.04,Accepted
+Yes Bank,Education Loan,2572443,7.26,15,18087,15563.28,Rejected
+ICICI Bank,Business Loan,1855171,9.0,10,10927,13913.78,Accepted
+State Bank of India,Home Loan,1418888,9.46,15,9771,11185.57,Accepted
+Punjab National Bank,Personal Loan,2545563,7.19,5,7545,15252.16,Accepted
+Yes Bank,Car Loan,1271107,8.26,10,18006,8749.45,Accepted
+Punjab National Bank,Education Loan,1701766,11.74,10,12640,16648.94,Accepted
+ICICI Bank,Home Loan,672289,9.18,20,9542,5143.01,Rejected
+Bank of Baroda,Home Loan,1608181,7.84,15,11403,10506.78,Accepted
+Axis Bank,Education Loan,2039708,8.03,20,7652,13649.05,Accepted
+IndusInd Bank,Home Loan,1664653,10.63,15,12622,14746.05,Accepted
+Punjab National Bank,Education Loan,2504266,9.58,5,18309,19992.39,Rejected
+Kotak Mahindra Bank,Education Loan,1062619,7.73,10,7280,6845.04,Rejected
+State Bank of India,Personal Loan,1241103,8.34,15,3841,8625.67,Accepted
+Punjab National Bank,Personal Loan,977924,8.79,15,18734,7163.29,Accepted
+HDFC Bank,Personal Loan,532278,9.0,5,12441,3992.08,Accepted
+Punjab National Bank,Business Loan,1601041,10.94,20,16086,14596.16,Accepted
+Yes Bank,Home Loan,1365442,11.52,20,9119,13108.24,Accepted
+State Bank of India,Car Loan,2300374,9.71,10,15924,18613.86,Rejected
+Bank of India,Education Loan,2877173,8.69,20,5664,20835.53,Rejected
+State Bank of India,Home Loan,2803502,10.04,20,17027,23455.97,Rejected
+State Bank of India,Personal Loan,2570309,9.4,20,5378,20134.09,Accepted
+IndusInd Bank,Education Loan,1207598,9.68,15,5569,9741.29,Accepted
+Bank of India,Education Loan,1395848,7.05,10,9840,8200.61,Rejected
+Bank of Baroda,Education Loan,2548578,11.83,10,8156,25124.73,Rejected
+ICICI Bank,Education Loan,1669221,8.12,10,3137,11295.06,Rejected
+HDFC Bank,Business Loan,644553,8.53,20,12831,4581.7,Rejected
+ICICI Bank,Personal Loan,619844,10.16,10,17494,5248.01,Rejected
+IndusInd Bank,Business Loan,2033394,9.24,15,18903,15657.13,Accepted
+IndusInd Bank,Home Loan,2049255,7.35,10,3923,12551.69,Accepted
+Bank of Baroda,Home Loan,1783914,8.29,5,5294,12323.87,Accepted
+Bank of Baroda,Education Loan,2330607,9.68,15,13519,18800.23,Rejected
+Kotak Mahindra Bank,Car Loan,2502701,9.65,5,7510,20125.89,Accepted
+IndusInd Bank,Personal Loan,2332808,10.67,10,11149,20742.55,Rejected
+Bank of India,Car Loan,2540660,7.78,20,11448,16471.95,Rejected
+State Bank of India,Education Loan,1809823,11.14,15,15772,16801.19,Rejected
+Bank of India,Business Loan,1464703,7.3,5,12539,8910.28,Rejected
+ICICI Bank,Personal Loan,1478624,7.49,5,4995,9229.08,Rejected
+ICICI Bank,Car Loan,1943834,7.69,10,11482,12456.74,Rejected
+HDFC Bank,Personal Loan,2102564,7.76,20,16151,13596.58,Rejected
+State Bank of India,Education Loan,2343365,10.86,10,9775,21207.45,Accepted
+Kotak Mahindra Bank,Education Loan,2819805,11.73,20,4844,27563.59,Accepted
+Yes Bank,Education Loan,1835564,7.21,20,12558,11028.68,Accepted
+Punjab National Bank,Car Loan,1248652,10.4,20,11568,10821.65,Rejected
+Punjab National Bank,Home Loan,1289246,10.52,10,9283,11302.39,Accepted
+State Bank of India,Car Loan,2062237,9.27,15,8755,15930.78,Rejected
+State Bank of India,Car Loan,995399,9.69,5,15239,8037.85,Rejected
+IndusInd Bank,Business Loan,2924274,10.03,10,7223,24442.06,Rejected
+HDFC Bank,Home Loan,698391,7.98,10,3434,4644.3,Accepted
+Kotak Mahindra Bank,Personal Loan,1321764,8.18,5,12015,9010.02,Accepted
+ICICI Bank,Education Loan,1256236,8.77,20,6193,9180.99,Accepted
+Yes Bank,Business Loan,2614543,9.67,15,13299,21068.86,Rejected
+State Bank of India,Education Loan,2309303,11.02,15,13547,21207.1,Accepted
+State Bank of India,Personal Loan,1353266,10.0,10,11718,11277.22,Accepted
+State Bank of India,Education Loan,1550550,11.74,20,5696,15169.55,Accepted
+Kotak Mahindra Bank,Education Loan,1516629,7.47,15,10899,9441.02,Rejected
+Kotak Mahindra Bank,Education Loan,968153,9.24,20,10390,7454.78,Rejected
+HDFC Bank,Car Loan,838225,9.44,20,10828,6594.04,Accepted
+Bank of Baroda,Business Loan,2648508,8.4,15,16729,18539.56,Accepted
+Bank of India,Business Loan,1807208,10.44,20,12876,15722.71,Rejected
+ICICI Bank,Education Loan,2316198,10.96,15,18289,21154.61,Accepted
+Yes Bank,Business Loan,952353,7.58,15,14969,6015.7,Accepted
+State Bank of India,Car Loan,1615870,7.45,5,3514,10031.86,Accepted
+Kotak Mahindra Bank,Car Loan,548645,10.08,5,4011,4608.62,Accepted
+Kotak Mahindra Bank,Business Loan,1262537,7.22,10,11840,7596.26,Rejected
+Bank of India,Education Loan,1233767,11.68,10,9158,12008.67,Accepted
+Axis Bank,Education Loan,975933,8.01,15,6839,6514.35,Accepted
+Yes Bank,Education Loan,2054501,9.05,10,12800,15494.36,Accepted
+Bank of Baroda,Home Loan,2504168,9.95,10,3492,20763.73,Rejected
+Bank of India,Personal Loan,2522919,10.37,15,12532,21802.23,Accepted
+Kotak Mahindra Bank,Education Loan,2286737,9.31,20,16670,17741.27,Accepted
+Kotak Mahindra Bank,Home Loan,762026,11.31,15,3416,7182.1,Rejected
+Punjab National Bank,Business Loan,2036306,11.88,15,16144,20159.43,Accepted
+Punjab National Bank,Education Loan,780446,9.81,20,19692,6380.15,Rejected
+Yes Bank,Personal Loan,1324329,11.65,10,17995,12857.03,Accepted
+State Bank of India,Personal Loan,2855657,9.74,20,9440,23178.42,Accepted
+Punjab National Bank,Home Loan,1348945,9.86,5,9149,11083.83,Accepted
+Yes Bank,Personal Loan,938113,9.13,20,11134,7137.48,Rejected
+Kotak Mahindra Bank,Education Loan,2971169,10.37,10,16697,25675.85,Accepted
+IndusInd Bank,Personal Loan,1862619,8.51,20,11191,13209.07,Rejected
+ICICI Bank,Home Loan,707438,7.67,15,9124,4521.71,Accepted
+Kotak Mahindra Bank,Personal Loan,2195111,11.4,20,18196,20853.55,Accepted
+HDFC Bank,Car Loan,1833737,11.9,15,11628,18184.56,Accepted
+Axis Bank,Business Loan,1316659,11.05,20,7783,12124.23,Rejected
+Punjab National Bank,Car Loan,1175450,10.8,10,8325,10579.05,Accepted
+Yes Bank,Home Loan,1091424,8.48,20,9908,7712.73,Rejected
+HDFC Bank,Business Loan,2108998,7.43,15,5201,13058.21,Accepted
+Axis Bank,Car Loan,2211134,7.87,15,7664,14501.35,Accepted
+Bank of Baroda,Business Loan,1790708,7.77,20,4603,11594.83,Rejected
+Yes Bank,Car Loan,506046,11.15,15,10143,4702.01,Accepted
+State Bank of India,Education Loan,2855920,7.53,10,11518,17920.9,Accepted
+Bank of India,Education Loan,970610,11.1,10,18066,8978.14,Rejected
+Yes Bank,Business Loan,1690325,8.72,20,19249,12283.03,Rejected
+Bank of India,Home Loan,1450397,11.94,20,18458,14431.45,Accepted
+Axis Bank,Car Loan,2205307,11.48,5,10757,21097.44,Accepted
+ICICI Bank,Home Loan,2582299,7.13,15,6671,15343.16,Rejected
+Yes Bank,Business Loan,1587712,8.86,20,10604,11722.61,Rejected
+Axis Bank,Business Loan,2191877,8.71,10,9875,15909.37,Accepted
+State Bank of India,Business Loan,2335360,11.76,5,7851,22886.53,Rejected
+Kotak Mahindra Bank,Business Loan,2679426,9.68,15,4815,21614.04,Rejected
+ICICI Bank,Education Loan,2495807,7.09,15,3527,14746.06,Rejected
+Kotak Mahindra Bank,Education Loan,2056965,9.2,10,12820,15770.07,Accepted
+HDFC Bank,Education Loan,2919509,7.2,10,11831,17517.05,Accepted
+ICICI Bank,Home Loan,2467219,10.82,15,15541,22246.09,Rejected
+Yes Bank,Education Loan,729444,11.52,10,13572,7002.66,Rejected
+Yes Bank,Personal Loan,1823978,7.06,10,3677,10731.07,Rejected
+Bank of India,Car Loan,1833015,10.72,10,11047,16374.93,Rejected
+Punjab National Bank,Car Loan,1430964,8.36,15,16862,9969.05,Rejected
+Yes Bank,Education Loan,1096976,11.07,20,14720,10119.6,Accepted
+Bank of India,Education Loan,501086,9.36,15,7683,3908.47,Accepted
+Yes Bank,Car Loan,2629078,10.74,15,15926,23530.25,Accepted
+HDFC Bank,Car Loan,1142879,10.64,20,6304,10133.53,Rejected
+Axis Bank,Car Loan,1518772,9.55,20,13294,12086.89,Rejected
+Punjab National Bank,Car Loan,2433685,11.26,20,16109,22836.08,Rejected
+Bank of Baroda,Education Loan,1321186,8.82,10,8992,9710.72,Rejected
+Bank of Baroda,Car Loan,979870,11.04,15,4332,9014.8,Accepted
+HDFC Bank,Car Loan,1435848,8.63,15,12529,10326.14,Rejected
+ICICI Bank,Personal Loan,2462363,7.19,20,19076,14753.66,Rejected
+State Bank of India,Business Loan,2513819,8.12,20,5738,17010.18,Accepted
+State Bank of India,Business Loan,1024352,11.37,20,9368,9705.74,Accepted
+Punjab National Bank,Business Loan,823030,8.87,15,5264,6083.56,Rejected
+Kotak Mahindra Bank,Home Loan,951536,8.28,15,17384,6565.6,Rejected
+State Bank of India,Car Loan,1262186,11.39,20,9364,11980.25,Rejected
+Yes Bank,Home Loan,1834359,8.94,15,16762,13665.97,Accepted
+Yes Bank,Home Loan,1082198,8.78,20,5079,7918.08,Rejected
+HDFC Bank,Home Loan,2640365,11.0,15,9745,24203.35,Accepted
+HDFC Bank,Personal Loan,1328580,7.39,10,13432,8181.84,Accepted
+State Bank of India,Business Loan,1877973,11.64,5,13596,18216.34,Accepted
+Punjab National Bank,Business Loan,1707983,9.41,15,12245,13393.43,Accepted
+Punjab National Bank,Home Loan,2218923,11.84,10,11447,21893.37,Accepted
+HDFC Bank,Business Loan,1031431,10.44,15,13107,8973.45,Accepted
+Kotak Mahindra Bank,Personal Loan,1807725,8.14,20,7759,12262.4,Rejected
+Yes Bank,Business Loan,1302610,9.25,15,4758,10040.95,Rejected
+State Bank of India,Personal Loan,1463704,9.15,5,7785,11160.74,Accepted
+Punjab National Bank,Education Loan,611703,9.49,5,12555,4837.55,Accepted
+ICICI Bank,Education Loan,1701110,11.3,20,15683,16018.79,Rejected
+State Bank of India,Personal Loan,2023167,8.7,10,13790,14667.96,Rejected
+HDFC Bank,Car Loan,2380346,11.97,20,13683,23743.95,Accepted
+Bank of India,Home Loan,2477607,10.63,15,12039,21947.47,Rejected
+HDFC Bank,Personal Loan,2322566,8.2,20,5871,15870.87,Accepted
+Kotak Mahindra Bank,Home Loan,2428856,10.39,10,17304,21029.84,Accepted
+IndusInd Bank,Car Loan,2918170,9.26,10,9106,22518.55,Rejected
+Kotak Mahindra Bank,Education Loan,1352695,7.58,5,11537,8544.52,Accepted
+Yes Bank,Home Loan,660080,7.06,5,13712,3883.47,Rejected
+Bank of Baroda,Personal Loan,1122898,9.97,10,13264,9329.41,Accepted
+Kotak Mahindra Bank,Business Loan,1570188,9.95,20,15858,13019.48,Accepted
+Bank of Baroda,Home Loan,1869688,11.55,5,11749,17995.75,Accepted
+Yes Bank,Home Loan,1190477,8.79,10,4674,8720.24,Accepted
+IndusInd Bank,Business Loan,1440710,10.1,10,15034,12125.98,Rejected
+Kotak Mahindra Bank,Home Loan,2614841,10.78,15,8146,23489.99,Rejected
+Punjab National Bank,Personal Loan,2024677,10.48,20,12917,17682.18,Accepted
+Bank of India,Education Loan,2174574,10.28,20,15679,18628.85,Accepted
+Punjab National Bank,Home Loan,503289,8.0,10,16997,3355.26,Rejected
+ICICI Bank,Business Loan,1437936,10.96,10,17991,13133.15,Accepted
+Yes Bank,Personal Loan,2472304,7.05,20,8529,14524.79,Rejected
+State Bank of India,Car Loan,1090538,7.46,20,18622,6779.51,Accepted
+Bank of India,Home Loan,1210141,7.54,15,19051,7603.72,Accepted
+Yes Bank,Car Loan,595049,11.89,10,10085,5895.94,Accepted
+Axis Bank,Personal Loan,1333903,9.58,10,5320,10648.99,Rejected
+Axis Bank,Personal Loan,2563359,9.45,20,17473,20186.45,Rejected
+Bank of India,Home Loan,1142076,7.95,5,3776,7566.25,Rejected
+IndusInd Bank,Personal Loan,2023079,11.37,20,3470,19168.67,Accepted
+ICICI Bank,Education Loan,1099035,7.88,10,15752,7217.0,Accepted
+Punjab National Bank,Education Loan,1034474,7.5,15,12487,6465.46,Accepted
+Bank of India,Home Loan,2463080,7.32,5,17411,15024.79,Accepted
+Axis Bank,Home Loan,1189142,9.24,15,10745,9156.39,Accepted
+Yes Bank,Car Loan,1988518,11.36,5,12566,18824.64,Rejected
+IndusInd Bank,Home Loan,1487525,8.17,10,11482,10127.57,Accepted
+ICICI Bank,Education Loan,1198018,7.8,5,8659,7787.12,Accepted
+Yes Bank,Home Loan,910051,10.36,5,16270,7856.77,Accepted
+HDFC Bank,Business Loan,1788195,8.41,15,17073,12532.27,Rejected
+State Bank of India,Personal Loan,2054006,8.88,10,14060,15199.64,Rejected
+Bank of India,Education Loan,2330489,8.8,15,3339,17090.25,Accepted
+Bank of Baroda,Personal Loan,2192167,7.19,15,19001,13134.73,Rejected
+Bank of India,Home Loan,1727171,11.38,10,18618,16379.34,Rejected
+Bank of Baroda,Personal Loan,1455337,10.47,15,13431,12697.82,Rejected
+ICICI Bank,Education Loan,624103,11.09,15,4483,5767.75,Accepted
+Axis Bank,Business Loan,2927865,7.06,20,17470,17225.61,Rejected
+HDFC Bank,Personal Loan,2802331,11.83,5,11972,27626.31,Rejected
+Bank of Baroda,Personal Loan,1293644,9.03,5,8266,9734.67,Rejected
+Punjab National Bank,Car Loan,1702097,7.15,20,12615,10141.66,Rejected
+Yes Bank,Personal Loan,2097615,11.51,20,6348,20119.62,Rejected
+Kotak Mahindra Bank,Home Loan,1269100,7.11,15,10404,7519.42,Rejected
+State Bank of India,Business Loan,1757869,10.55,15,10518,15454.6,Accepted
+Bank of Baroda,Personal Loan,645245,11.95,5,10099,6425.56,Accepted
+Bank of Baroda,Home Loan,628024,8.17,5,14842,4275.8,Rejected
+IndusInd Bank,Car Loan,2010662,9.44,10,6936,15817.21,Rejected
+Axis Bank,Personal Loan,2124998,11.48,10,5627,20329.15,Rejected
+Bank of India,Personal Loan,769513,7.87,20,7798,5046.72,Accepted
+HDFC Bank,Home Loan,2352218,8.33,20,6358,16328.31,Rejected
+Bank of India,Car Loan,2680667,7.88,5,14955,17603.05,Accepted
+State Bank of India,Business Loan,1171282,10.05,20,3608,9809.49,Accepted
+Kotak Mahindra Bank,Car Loan,1606916,8.03,5,16873,10752.95,Rejected
+Kotak Mahindra Bank,Education Loan,794695,10.62,5,12034,7033.05,Accepted
+Axis Bank,Personal Loan,554369,9.08,5,13254,4194.73,Accepted
+Axis Bank,Education Loan,2386685,7.97,20,11475,15851.57,Rejected
+Bank of India,Business Loan,518621,10.91,5,4557,4715.13,Accepted
+Yes Bank,Personal Loan,984524,8.5,5,15250,6973.71,Accepted
+ICICI Bank,Personal Loan,2565949,7.32,10,9724,15652.29,Accepted
+Yes Bank,Business Loan,1378997,10.91,5,9718,12537.38,Rejected
+Yes Bank,Home Loan,2314980,8.23,15,18354,15876.9,Accepted
+Yes Bank,Business Loan,834904,11.73,20,3856,8161.19,Rejected
+State Bank of India,Education Loan,1694101,8.85,20,10218,12493.99,Accepted
+IndusInd Bank,Home Loan,2730313,7.23,10,18858,16450.14,Accepted
+ICICI Bank,Car Loan,532607,9.53,5,19618,4229.79,Accepted
+Punjab National Bank,Car Loan,620928,8.47,15,14714,4382.72,Accepted
+IndusInd Bank,Education Loan,1774895,8.9,15,3796,13163.8,Accepted
+HDFC Bank,Personal Loan,942230,9.64,20,18527,7569.25,Rejected
+HDFC Bank,Car Loan,823366,10.28,5,16950,7053.5,Rejected
+Bank of Baroda,Home Loan,592935,7.67,20,13003,3789.84,Accepted
+Kotak Mahindra Bank,Education Loan,564515,9.0,10,19861,4233.86,Rejected
+IndusInd Bank,Personal Loan,2219377,7.78,20,11993,14388.96,Accepted
+Axis Bank,Car Loan,836541,7.5,5,18210,5228.38,Accepted
+State Bank of India,Education Loan,1474771,8.57,5,12631,10532.32,Accepted
+Yes Bank,Personal Loan,2635350,7.29,15,8349,16009.75,Accepted
+ICICI Bank,Personal Loan,2572424,7.13,10,17564,15284.49,Rejected
+IndusInd Bank,Car Loan,1550692,9.31,10,11270,12030.79,Rejected
+ICICI Bank,Personal Loan,2051614,9.41,15,17412,16088.07,Rejected
+HDFC Bank,Personal Loan,562796,9.87,5,11899,4629.0,Rejected
+IndusInd Bank,Home Loan,631178,10.17,20,7645,5349.23,Rejected
+Yes Bank,Car Loan,1222632,11.84,10,7524,12063.3,Accepted
+Axis Bank,Business Loan,528931,10.23,10,16981,4509.14,Rejected
+State Bank of India,Personal Loan,2678629,8.32,15,14502,18571.83,Rejected
+Bank of Baroda,Education Loan,639854,8.04,20,6718,4287.02,Rejected
+Punjab National Bank,Personal Loan,1968539,10.09,5,16218,16552.13,Rejected
+State Bank of India,Education Loan,2321786,9.65,5,6927,18671.03,Accepted
+Kotak Mahindra Bank,Car Loan,1137959,8.66,10,10705,8212.27,Rejected
+ICICI Bank,Personal Loan,2190969,9.16,5,4571,16724.4,Rejected
+ICICI Bank,Business Loan,860162,11.25,10,5000,8064.02,Rejected
+Punjab National Bank,Education Loan,1748665,11.99,10,19957,17472.08,Accepted
+Axis Bank,Home Loan,1019558,7.05,10,4809,5989.9,Rejected
+HDFC Bank,Education Loan,606926,11.31,20,13544,5720.28,Accepted
+Bank of Baroda,Home Loan,1892641,9.22,15,15636,14541.79,Rejected
+Punjab National Bank,Education Loan,2098039,11.05,5,12883,19319.44,Rejected
+ICICI Bank,Education Loan,1279161,9.78,15,4487,10425.16,Accepted
+ICICI Bank,Home Loan,1656107,11.17,15,3103,15415.6,Accepted
+Yes Bank,Personal Loan,1134071,7.36,10,5562,6955.64,Rejected
+Yes Bank,Business Loan,2836797,8.89,15,19119,21015.94,Rejected
+State Bank of India,Education Loan,814624,8.81,5,11030,5980.7,Accepted
+Bank of Baroda,Education Loan,1486950,7.63,15,16193,9454.52,Rejected
+HDFC Bank,Car Loan,725624,8.37,15,16378,5061.23,Rejected
+Punjab National Bank,Home Loan,1581299,10.49,5,11407,13823.19,Rejected
+Kotak Mahindra Bank,Home Loan,866078,8.41,5,4041,6069.76,Accepted
+HDFC Bank,Car Loan,2451087,8.65,10,11971,17668.25,Rejected
+HDFC Bank,Car Loan,2777588,11.62,5,10344,26896.31,Accepted
+Kotak Mahindra Bank,Home Loan,2201100,10.47,10,18745,19204.6,Accepted
+IndusInd Bank,Personal Loan,1464377,10.93,10,9020,13338.03,Accepted
+Axis Bank,Business Loan,569299,11.84,5,17501,5617.08,Accepted
+Yes Bank,Personal Loan,680970,7.39,15,6882,4193.64,Rejected
+Bank of Baroda,Business Loan,745020,8.09,10,18186,5022.68,Rejected
+Axis Bank,Personal Loan,2784404,10.47,10,9425,24293.92,Accepted
+Bank of Baroda,Education Loan,1216830,10.89,10,16438,11042.73,Rejected
+Bank of India,Education Loan,2017478,7.56,5,5686,12710.11,Rejected
+Punjab National Bank,Home Loan,1600640,8.6,15,7603,11471.25,Accepted
+Bank of Baroda,Personal Loan,1859620,9.13,5,15731,14148.61,Rejected
+Punjab National Bank,Car Loan,2954413,9.01,20,13074,22182.72,Rejected
+Bank of India,Education Loan,1613824,10.49,10,8928,14107.51,Rejected
+State Bank of India,Education Loan,2005965,10.05,20,5743,16799.96,Accepted
+Punjab National Bank,Education Loan,2919666,11.52,5,16988,28028.79,Accepted
+ICICI Bank,Business Loan,2031772,8.7,10,15226,14730.35,Rejected
+Kotak Mahindra Bank,Home Loan,1856354,8.51,5,15003,13164.64,Accepted
+State Bank of India,Education Loan,2701046,9.52,10,9494,21428.3,Accepted
+ICICI Bank,Business Loan,2929443,10.89,10,6782,26584.7,Accepted
+Bank of Baroda,Business Loan,1915396,11.82,5,12467,18866.65,Rejected
+Punjab National Bank,Personal Loan,1512471,7.93,20,6670,9994.91,Rejected
+Yes Bank,Education Loan,2883788,7.22,20,10177,17350.79,Rejected
+Bank of India,Home Loan,2174910,10.78,20,15438,19537.94,Rejected
+HDFC Bank,Home Loan,1253497,8.72,20,17464,9108.74,Accepted
+ICICI Bank,Personal Loan,1166789,8.52,15,16973,8284.2,Accepted
+Kotak Mahindra Bank,Car Loan,1629874,7.75,5,14588,10526.27,Accepted
+Punjab National Bank,Education Loan,1455244,10.41,15,4332,12624.24,Rejected
+Bank of India,Business Loan,1367156,7.62,10,7821,8681.44,Rejected
+Punjab National Bank,Education Loan,2189463,11.0,5,11741,20070.08,Accepted
+Punjab National Bank,Business Loan,2896781,11.6,10,3309,28002.22,Accepted
+Yes Bank,Personal Loan,603931,8.12,10,18223,4086.6,Rejected
+Kotak Mahindra Bank,Business Loan,2218975,7.66,10,17072,14164.46,Accepted
+Bank of India,Business Loan,2108267,7.96,5,17458,13984.84,Accepted
+Bank of India,Education Loan,2453827,11.8,15,4598,24129.3,Accepted
+State Bank of India,Car Loan,1882556,10.05,10,13900,15766.41,Rejected
+Yes Bank,Education Loan,1671860,8.35,5,13342,11633.36,Rejected
+Kotak Mahindra Bank,Personal Loan,899404,7.16,15,19143,5366.44,Accepted
+IndusInd Bank,Business Loan,976646,10.12,15,8872,8236.38,Accepted
+IndusInd Bank,Business Loan,2540809,7.85,20,11109,16621.13,Rejected
+Axis Bank,Education Loan,2184210,9.59,20,15454,17455.48,Accepted
+Bank of Baroda,Education Loan,795871,9.45,20,18513,6267.48,Accepted
+Axis Bank,Business Loan,2423849,11.51,20,14993,23248.75,Rejected
+Punjab National Bank,Business Loan,2666166,8.95,15,18563,19885.15,Rejected
+ICICI Bank,Car Loan,577764,10.24,10,9581,4930.25,Rejected
+IndusInd Bank,Education Loan,592181,7.22,20,5405,3562.96,Accepted
+Axis Bank,Home Loan,1175196,8.67,20,12530,8490.79,Rejected
+Yes Bank,Home Loan,1212621,7.74,20,12749,7821.41,Rejected
+Punjab National Bank,Personal Loan,1207637,10.0,20,15526,10063.64,Rejected
+Punjab National Bank,Education Loan,1136852,10.92,15,5678,10345.35,Accepted
+Yes Bank,Home Loan,1599925,7.03,5,8003,9372.89,Accepted
+Axis Bank,Education Loan,1375086,8.83,15,12205,10118.34,Accepted
+ICICI Bank,Education Loan,1221241,7.32,5,7072,7449.57,Accepted
+HDFC Bank,Home Loan,2453019,8.36,5,18578,17089.37,Rejected
+ICICI Bank,Personal Loan,1319163,8.92,5,14910,9805.78,Rejected
+Axis Bank,Education Loan,2070534,11.79,10,12673,20343.0,Rejected
+Punjab National Bank,Business Loan,2234005,8.82,15,14322,16419.94,Accepted
+ICICI Bank,Business Loan,1953303,9.44,10,13750,15365.98,Accepted
+Yes Bank,Personal Loan,1908229,10.58,5,9024,16824.22,Rejected
+Bank of Baroda,Education Loan,1269610,10.74,15,10874,11363.01,Accepted
+Bank of India,Business Loan,1070197,11.4,15,4803,10166.87,Rejected
+HDFC Bank,Education Loan,2401457,9.59,15,15732,19191.64,Rejected
+HDFC Bank,Car Loan,2406000,7.3,5,12292,14636.5,Rejected
+HDFC Bank,Car Loan,2481861,9.75,15,4776,20165.12,Accepted
+Axis Bank,Business Loan,2636415,10.39,10,5501,22826.96,Accepted
+Bank of Baroda,Car Loan,1410191,7.45,20,15659,8754.94,Rejected
+Bank of India,Education Loan,2743664,10.32,10,4481,23595.51,Rejected
+Bank of India,Education Loan,1714381,7.92,5,15973,11314.91,Rejected
+HDFC Bank,Home Loan,1321880,11.7,5,6513,12888.33,Rejected
+Bank of Baroda,Personal Loan,1935525,11.41,20,12595,18403.62,Accepted
+IndusInd Bank,Car Loan,1830862,9.21,15,14128,14051.87,Rejected
+State Bank of India,Car Loan,2243098,9.42,5,5944,17608.32,Rejected
+Punjab National Bank,Car Loan,2917982,8.18,5,14850,19890.91,Accepted
+Yes Bank,Education Loan,2853389,9.05,5,3208,21519.31,Accepted
+HDFC Bank,Car Loan,1043685,11.81,20,7590,10271.6,Accepted
+Bank of India,Business Loan,701580,11.27,15,7871,6589.01,Accepted
+Axis Bank,Personal Loan,2437157,7.57,5,19099,15374.4,Accepted
+ICICI Bank,Education Loan,2716563,9.52,20,16628,21551.4,Rejected
+Yes Bank,Education Loan,960798,9.61,15,15200,7694.39,Rejected
+IndusInd Bank,Education Loan,2549848,9.71,15,3816,20632.52,Rejected
+IndusInd Bank,Home Loan,1330926,10.93,15,5658,12122.52,Rejected
+Bank of Baroda,Education Loan,2121348,9.62,5,10417,17006.14,Accepted
+HDFC Bank,Car Loan,826251,7.47,20,6293,5143.41,Accepted
+Punjab National Bank,Personal Loan,2035462,10.67,20,11456,18098.65,Accepted
+Bank of India,Business Loan,1543605,11.87,15,5919,15268.83,Rejected
+Punjab National Bank,Business Loan,800384,7.31,20,17300,4875.67,Rejected
+Punjab National Bank,Personal Loan,537418,11.93,20,5212,5342.83,Rejected
+ICICI Bank,Car Loan,2016956,9.62,20,19790,16169.26,Rejected
+ICICI Bank,Business Loan,2772809,9.06,5,6090,20934.71,Accepted
+Bank of India,Car Loan,2673764,10.29,10,12435,22927.53,Rejected
+Punjab National Bank,Home Loan,1743493,10.92,20,8702,15865.79,Accepted
+Bank of Baroda,Car Loan,2429115,10.37,10,12011,20991.6,Rejected
+ICICI Bank,Business Loan,2207754,9.13,5,9803,16797.33,Rejected
+Axis Bank,Education Loan,1159935,7.55,5,13450,7297.92,Accepted
+Bank of Baroda,Home Loan,531030,9.93,20,13493,4394.27,Accepted
+ICICI Bank,Business Loan,2549525,9.59,10,4528,20374.95,Rejected
+Axis Bank,Home Loan,1582523,9.84,10,9014,12976.69,Accepted
+Punjab National Bank,Education Loan,2657343,8.45,5,19465,18712.12,Accepted
+Bank of Baroda,Home Loan,2810318,8.87,5,15538,20772.93,Accepted
+Bank of India,Personal Loan,1517550,9.4,20,7361,11887.48,Rejected
+Kotak Mahindra Bank,Home Loan,1439649,10.56,10,15231,12668.91,Rejected
+Yes Bank,Personal Loan,2152529,9.18,15,17740,16466.85,Rejected
+IndusInd Bank,Business Loan,2375151,7.52,15,8206,14884.28,Rejected
+IndusInd Bank,Personal Loan,2493890,11.17,10,10531,23213.96,Rejected
+IndusInd Bank,Education Loan,2370414,8.06,20,12060,15921.28,Accepted
+Bank of India,Personal Loan,2441342,10.73,10,6226,21829.67,Rejected
+Kotak Mahindra Bank,Personal Loan,1981461,10.61,5,16631,17519.42,Accepted
+IndusInd Bank,Personal Loan,1306372,10.63,20,14353,11572.28,Rejected
+ICICI Bank,Car Loan,1991998,7.77,5,6352,12898.19,Rejected
+Bank of Baroda,Business Loan,1356287,11.47,5,16718,12963.84,Accepted
+Punjab National Bank,Education Loan,1567231,9.55,20,13123,12472.55,Accepted
+State Bank of India,Home Loan,1974673,9.26,5,11585,15237.89,Rejected
+Punjab National Bank,Education Loan,1588021,11.61,15,12889,15364.1,Accepted
+HDFC Bank,Business Loan,2588087,11.04,10,9735,23810.4,Accepted
+Yes Bank,Car Loan,2439366,11.8,20,9491,23987.1,Accepted
+State Bank of India,Business Loan,1158251,8.11,5,10485,7827.85,Accepted
+Yes Bank,Personal Loan,2697872,11.39,20,12019,25607.3,Accepted
+Yes Bank,Business Loan,1581913,8.62,5,12477,11363.41,Accepted
+Kotak Mahindra Bank,Car Loan,2487356,11.56,20,7355,23961.53,Rejected
+State Bank of India,Personal Loan,1223912,10.73,20,13200,10943.81,Accepted
+Bank of India,Car Loan,1370587,9.61,5,5470,10976.12,Accepted
+IndusInd Bank,Car Loan,1391685,10.98,20,14981,12733.92,Rejected
+Kotak Mahindra Bank,Personal Loan,1407974,9.1,5,7409,10677.14,Rejected
+State Bank of India,Business Loan,2393861,9.5,10,3906,18951.4,Accepted
+Punjab National Bank,Education Loan,1165445,11.99,10,4309,11644.74,Rejected
+Bank of Baroda,Personal Loan,1515956,11.89,15,8335,15020.6,Accepted
+ICICI Bank,Business Loan,2618598,9.25,20,6353,20185.03,Rejected
+ICICI Bank,Business Loan,2605031,7.64,15,19395,16585.36,Accepted
+Yes Bank,Home Loan,2148303,9.76,15,8953,17472.86,Rejected
+State Bank of India,Car Loan,768997,8.12,15,4920,5203.55,Rejected
+Kotak Mahindra Bank,Business Loan,2933224,8.75,15,3818,21388.09,Rejected
+IndusInd Bank,Education Loan,691824,11.92,5,16810,6872.12,Rejected
+Axis Bank,Car Loan,931782,7.52,10,11595,5839.17,Rejected
+Bank of Baroda,Business Loan,2458846,7.92,15,13890,16228.38,Rejected
+Bank of Baroda,Car Loan,1838905,11.66,15,7040,17868.03,Accepted
+HDFC Bank,Education Loan,2142472,9.14,5,17570,16318.5,Rejected
+ICICI Bank,Personal Loan,1110261,8.04,15,4982,7438.75,Accepted
+Bank of India,Personal Loan,1382358,8.3,15,11258,9561.31,Accepted
+HDFC Bank,Home Loan,1930116,10.12,5,10804,16277.31,Accepted
+HDFC Bank,Education Loan,609856,8.18,20,14549,4157.19,Rejected
+Bank of India,Car Loan,1592096,11.45,20,5123,15191.25,Rejected
+Yes Bank,Business Loan,1235982,8.24,10,14169,8487.08,Rejected
+ICICI Bank,Home Loan,1683507,10.22,15,17008,14337.87,Accepted
+Bank of India,Home Loan,2493482,10.53,15,11338,21880.3,Accepted
+Axis Bank,Car Loan,1822082,9.54,5,18724,14485.55,Accepted
+Punjab National Bank,Education Loan,2514950,11.04,5,6005,23137.54,Accepted
+ICICI Bank,Home Loan,2334609,11.64,20,6135,22645.71,Rejected
+Punjab National Bank,Business Loan,1439736,11.59,15,18729,13905.45,Rejected
+Bank of Baroda,Car Loan,1515289,8.91,15,12424,11251.02,Accepted
+ICICI Bank,Home Loan,849189,11.37,20,9112,8046.07,Accepted
+Yes Bank,Business Loan,1924093,7.49,20,5174,12009.55,Rejected
+Punjab National Bank,Car Loan,1907728,10.93,15,15595,17376.22,Accepted
+IndusInd Bank,Car Loan,2287612,8.79,10,7603,16756.76,Rejected
+IndusInd Bank,Car Loan,1200509,9.39,5,9720,9393.98,Rejected
+HDFC Bank,Education Loan,2501795,10.02,5,19675,20889.99,Rejected
+Bank of India,Home Loan,885553,11.15,5,16034,8228.26,Accepted
+State Bank of India,Car Loan,1892284,10.68,5,19622,16841.33,Accepted
+HDFC Bank,Home Loan,548900,8.3,5,15476,3796.56,Rejected
+HDFC Bank,Personal Loan,678831,11.12,5,8555,6290.5,Accepted
+Punjab National Bank,Personal Loan,989103,7.66,10,8910,6313.77,Accepted
+Axis Bank,Personal Loan,2395226,7.37,20,13079,14710.68,Rejected
+State Bank of India,Home Loan,2501697,8.39,15,14557,17491.03,Rejected
+Bank of Baroda,Business Loan,2935111,10.57,15,5351,25853.44,Accepted
+Axis Bank,Education Loan,594128,9.97,5,12926,4936.21,Accepted
+Axis Bank,Business Loan,1103413,11.79,5,12726,10841.03,Accepted
+IndusInd Bank,Car Loan,2345520,8.59,15,13241,16790.01,Accepted
+Bank of India,Personal Loan,2072957,9.52,5,16117,16445.46,Rejected
+Bank of India,Business Loan,1567304,7.45,10,4921,9730.35,Rejected
+HDFC Bank,Business Loan,1284323,11.2,20,5046,11987.01,Rejected
+Kotak Mahindra Bank,Car Loan,1838121,11.58,15,13748,17737.87,Accepted
+Bank of India,Personal Loan,2100348,9.84,15,15954,17222.85,Accepted
+Bank of Baroda,Business Loan,2561439,8.08,15,6712,17247.02,Accepted
+Punjab National Bank,Business Loan,1208287,7.71,15,15434,7763.24,Rejected
+HDFC Bank,Car Loan,1559933,11.65,10,17972,15144.35,Accepted
+IndusInd Bank,Education Loan,906943,9.35,10,7898,7066.6,Accepted
+IndusInd Bank,Education Loan,716889,10.29,15,3912,6147.32,Accepted
+ICICI Bank,Home Loan,1529936,11.97,20,14753,15261.11,Accepted
+ICICI Bank,Education Loan,2605606,8.47,15,9271,18391.24,Accepted
+State Bank of India,Education Loan,1524783,8.96,20,19175,11385.05,Rejected
+Kotak Mahindra Bank,Home Loan,825498,11.72,20,16010,8062.36,Accepted
+Punjab National Bank,Personal Loan,1822149,8.52,20,18337,12937.26,Rejected
+Bank of Baroda,Business Loan,2484910,11.77,10,6140,24372.83,Accepted
+State Bank of India,Education Loan,2180551,11.69,15,11818,21242.2,Accepted
+ICICI Bank,Education Loan,2363863,8.68,5,4596,17098.61,Accepted
+Punjab National Bank,Home Loan,926411,7.9,10,19983,6098.87,Rejected
+Kotak Mahindra Bank,Business Loan,841160,7.12,15,11694,4990.88,Rejected
+State Bank of India,Personal Loan,1331839,10.97,15,3591,12175.23,Accepted
+Punjab National Bank,Car Loan,1890114,8.39,10,19916,13215.05,Rejected
+Yes Bank,Education Loan,887773,8.74,15,13169,6465.95,Accepted
+Bank of Baroda,Education Loan,1766032,7.37,20,10500,10846.38,Rejected
+ICICI Bank,Personal Loan,1157200,10.0,10,6365,9643.33,Rejected
+HDFC Bank,Car Loan,1083209,11.54,10,19598,10416.86,Rejected
+IndusInd Bank,Home Loan,1719121,8.45,20,11825,12105.48,Rejected
+IndusInd Bank,Car Loan,1587681,10.4,20,7545,13759.9,Rejected
+Bank of Baroda,Business Loan,595704,8.16,5,5882,4050.79,Rejected
+Punjab National Bank,Business Loan,2429907,11.55,15,18885,23387.85,Rejected
+Bank of India,Personal Loan,2807241,7.92,10,4842,18527.79,Rejected
+Kotak Mahindra Bank,Personal Loan,1103951,9.08,5,14900,8353.23,Rejected
+Axis Bank,Car Loan,1467139,9.33,5,8697,11407.01,Rejected
+Bank of India,Business Loan,549959,7.05,15,9610,3231.01,Accepted
+Kotak Mahindra Bank,Education Loan,1558106,8.23,5,11643,10686.01,Accepted
+IndusInd Bank,Car Loan,2445841,11.62,10,3264,23683.89,Accepted
+ICICI Bank,Home Loan,511396,9.89,5,11221,4214.76,Rejected
+HDFC Bank,Car Loan,2006605,9.89,10,4871,16537.77,Rejected
+Yes Bank,Home Loan,2477449,7.51,5,18771,15504.7,Rejected
+State Bank of India,Business Loan,1468975,10.02,20,5961,12265.94,Accepted
+Punjab National Bank,Business Loan,1040465,10.79,5,5804,9355.51,Accepted
+ICICI Bank,Personal Loan,2397458,8.43,15,19343,16842.14,Rejected
+State Bank of India,Home Loan,2152200,7.65,5,6800,13720.27,Rejected
+Bank of India,Personal Loan,2689560,8.12,5,12832,18199.36,Rejected
+ICICI Bank,Home Loan,760393,7.26,10,8597,4600.38,Rejected
+Bank of Baroda,Business Loan,1861098,9.97,15,3547,15462.62,Rejected
+Kotak Mahindra Bank,Business Loan,2155728,8.64,15,14615,15521.24,Rejected
+Axis Bank,Personal Loan,1174597,9.35,15,15000,9152.07,Rejected
+HDFC Bank,Business Loan,534168,11.32,10,12274,5038.98,Accepted

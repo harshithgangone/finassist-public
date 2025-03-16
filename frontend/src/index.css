@@ -1,0 +1,80 @@
+/* Add this animation for the pulsing microphone and speaker icons */
+@keyframes pulse {
+  0% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* For WebKit browsers (Chrome, Safari) */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #c5c5c5;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #a8a8a8;
+}
+
+/* Add these styles to ensure consistent formatting across languages */
+.formatted-message ol,
+.formatted-message ul {
+  margin-top: 8px !important;
+  margin-bottom: 8px !important;
+  padding-left: 24px !important;
+}
+
+.formatted-message li {
+  margin-bottom: 4px !important;
+  padding-left: 4px !important;
+}
+
+.formatted-message p {
+  margin-bottom: 8px !important;
+}
+
+/* Add specific styles for non-Latin scripts */
+.formatted-message:lang(te) li,
+.formatted-message:lang(hi) li,
+.formatted-message:lang(ta) li,
+.formatted-message:lang(ml) li,
+.formatted-message:lang(kn) li,
+.formatted-message:lang(bn) li,
+.formatted-message:lang(gu) li,
+.formatted-message:lang(mr) li,
+.formatted-message:lang(pa) li,
+.formatted-message:lang(or) li {
+  list-style-position: outside !important;
+  margin-left: 8px !important;
+}
+
